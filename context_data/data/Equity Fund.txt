@@ -9,19 +9,6 @@ AUM indicates the size of a fund and its stability. It also reflects the fund ma
 What parameters are considered for the equity mutual fund model?
 We have used fundamental scores - Treynor ratio, Sharpe ratio, Sortino ratio and Jensen’s alpha ratio along with Fund Manager’s score. 
 
-What are the weightages for fundamental scores used in the model?
-The parameters along with weightages are:
-Treynor: 25%
-Sharpe: 25%
-Sortino: 25%
-Jensen’s Alpha: 25%
-
-What are the weightages of parameters used in the model?
-Fundamental score: 90%
-Fund Manager’s score: 10%
-
-Why is minimum weightage given to fund managers' scores?
-Fund managers' decision making skill is reflected in the fundamental scores, however, his past experience and performance is important in order to assess their ability to manage funds.
 
 What is a CAGR ?
 The Compound Annual Growth Rate (CAGR), is the annualized average rate of revenue growth between 2 given years, assuming growth takes place at an exponential rate.
@@ -61,12 +48,9 @@ A higher Treynor Ratio indicates better risk-adjusted returns.
 How is the Treynor ratio calculated?
 It's calculated by subtracting the risk-free rate from the portfolio's returns and dividing by the portfolio's beta.
 
-How is a fund manager’s performance evaluated?
-It is evaluated on the basis of fund manager’s historical performance and experience in the category.
-
-What is a tracking error and what is its relevance ?
+What is a tracking error in index fund and what is its relevance ?
 It is a measure of how consistently a portfolio follows the index or benchmark it is supposed to emulate. It helps investors understand how well the fund is achieving its goal of mimicking the benchmark and can be a sign of the manager's skill in constructing and managing the portfolio.
 
 
-How is tracking error calculated ?
+How is tracking error calculated in index fund ?
  It's calculated as the standard deviation of the difference between the portfolio's returns and the benchmark's returns over a given period.
