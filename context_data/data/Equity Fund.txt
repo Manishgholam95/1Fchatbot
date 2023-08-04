@@ -1,0 +1,72 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+
+What is the role of AUM(Assets Under Management) play in evaluating a fund’s stability and performance?
+AUM indicates the size of a fund and its stability. It also reflects the fund manager’s ability to negotiate better investment terms. Higher AUM can suggest a more stable and well-managed fund.
+
+What parameters are considered for the equity mutual fund model?
+We have used fundamental scores - Treynor ratio, Sharpe ratio, Sortino ratio and Jensen’s alpha ratio along with Fund Manager’s score. 
+
+What are the weightages for fundamental scores used in the model?
+The parameters along with weightages are:
+Treynor: 25%
+Sharpe: 25%
+Sortino: 25%
+Jensen’s Alpha: 25%
+
+What are the weightages of parameters used in the model?
+Fundamental score: 90%
+Fund Manager’s score: 10%
+
+Why is minimum weightage given to fund managers' scores?
+Fund managers' decision making skill is reflected in the fundamental scores, however, his past experience and performance is important in order to assess their ability to manage funds.
+
+What is a CAGR ?
+The Compound Annual Growth Rate (CAGR), is the annualized average rate of revenue growth between 2 given years, assuming growth takes place at an exponential rate.
+
+
+Explain Sharpe ratio and why it is important in a fund’s  Performance Evaluation.
+Sharpe Ratio is a measure that helps investors understand the return of an investment compared to its risk. 
+It’s important in a fund’s performance evaluation to allow investors to compare the risk adjusted returns of different funds or portfolios.
+
+What does a high Sharpe ratio indicate ?
+A higher ratio indicates better investment returns relative to the risk taken.
+
+How have you calculated the Sharpe ratio?
+It's calculated by taking the difference between the expected returns of the investment and the risk-free rate, and then dividing that by the standard deviation of the investment's returns.
+
+
+Explain Sortino ratio and why it is important in a fund’s  Performance Evaluation.
+Sortino ratio focuses on the downside risk or negative volatility. It's important to consider this fund as they may have asymmetric risk profiles, where the downside risks are more concerning to the investor.
+
+
+What is the difference between Sharpe and Sortino ratio?
+The Sharpe Ratio considers both upside and downside volatility, whereas the Sortino Ratio only considers downside volatility or negative returns. 
+
+Why have we considered the Sharpe and Sortino ratio, together?
+Considering both the Sharpe and Sortino ratios together provides a more comprehensive view of a fund's risk and return profile.
+
+Explain Jensen’s alpha and implication of a positive Jensen alpha.
+Jensen's Alpha is a measure of the performance of a portfolio or fund against its expected returns. A positive Jensen's Alpha indicates that the fund or portfolio has outperformed its expected returns.
+
+
+Explain Treynor Measure and why it is important in a fund’s  Performance Evaluation.
+It  evaluates the returns earned above the risk-free rate per each unit of market risk (beta) assumed by the portfolio. It is essential in a fund's performance evaluation as it helps investors understand how well the fund has been compensated for taking systematic risk. 
+
+What does a high treynor ratio indicate?
+A higher Treynor Ratio indicates better risk-adjusted returns.
+
+How is the Treynor ratio calculated?
+It's calculated by subtracting the risk-free rate from the portfolio's returns and dividing by the portfolio's beta.
+
+How is a fund manager’s performance evaluated?
+It is evaluated on the basis of fund manager’s historical performance and experience in the category.
+
+What is a tracking error and what is its relevance ?
+It is a measure of how consistently a portfolio follows the index or benchmark it is supposed to emulate. It helps investors understand how well the fund is achieving its goal of mimicking the benchmark and can be a sign of the manager's skill in constructing and managing the portfolio.
+
+
+How is tracking error calculated ?
+ It's calculated as the standard deviation of the difference between the portfolio's returns and the benchmark's returns over a given period.
