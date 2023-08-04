@@ -1,3 +1,14 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+what is Virtuous Elephant?
+These are people who make choices practically and systematically, which provides a sense of security to those around them. In a crisis, they remain calm and committed to their goals. Experimentation can make them restless, but it’s okay to push the envelope sometimes — within reason.
+
+give the detail description of Virtuous Elephant.
+A natural leader, they possess a great sense of practicality and sage wisdom, which makes them capable of deriving original solutions to complicated problems. People look up to them because of their ability to maintain composure during a crisis and their unwavering focus on the end goal. They offer a sense of warmth and belonging to those around them by ensuring that they’re well looked after and aren’t threatened by external factors. A sharp intellect, great communication skills, and remarkable self-control are the most important tools in their arsenal, accompanied by a spirited attitude.
+
+
 How many or What are the Virtuous Elephant recommendations/suggestions ?
 Based on your Virtuous Elephant traits, here are our recommendations to help you make sound financial decisions. 
 	1. If experimenting with new financial products that are considered to be volatile or high-risk makes you anxious, know that it’s okay to stick to investment avenues that you’re familiar with. However, you should keep your portfolio adequately diversified and dedicate a part of it to inflation-beating products like equity or hybrid mutual funds. This will help you strike a balance between maintaining a core portion for capital preservation and a comfortable allocation for securing your future purchasing power.

@@ -1,3 +1,14 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+what is vigilant turtle?
+Composure, keen observation, discipline and self-control allow this set of people to navigate difficult situations, solve complex problems, and achieve financial satisfaction. They like staying prepared for risks that may jeopardise their well-being, and are often more comfortable with tried-and-tested investment avenues.
+
+give the detail description of Vigilant Turtle.
+They're an incredibly composed and grounded individual with a strong sense of self-control, which comes from being satisfied with their achievements. They firmly believe in working hard to achieve their goals and follow a very systematic and disciplined approach while solving problems across different facets of their life. They dislike uncertainty because it leaves them feeling anxious, and they’re apprehensive about deviating from tried-and-tested conventions as they believe it exposes them to unwanted risks. They’re extremely skilled at negotiating difficult situations by applying a watertight system of checks and balances that they’ve established over time. They’re careful and highly observant, which allows them to anticipate undesirable outcomes and prepare in advance. They believe in taking one step at a time, and that holds them in good stead
+
+
 How many or What are the Vigilant Turtle recommendations/suggestions ?
 Based on your Vigilant Turtle traits, here are our recommendations to help you make sound financial decisions. 
 	1. If experimenting with new financial products that are considered to be volatile or high risk in nature makes you anxious, know that it’s okay to stick to investment avenues that you’re familiar with. 

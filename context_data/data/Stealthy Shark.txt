@@ -1,3 +1,13 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+what is Stealthy Shark?
+Inquisitive, ambitious, and prone to restlessness, these are people who are constantly on the lookout for new opportunities, while keeping track of competitors. Their financial decisions are swift and aggressive — exercising some caution can sometimes be in their best interest.
+
+give the detail description of Stealthy Shark.
+They prefer to maintain an air of mystery by being discreet about their intentions and taking measured actions. They're highly inquisitive and aren't afraid to venture into the unknown if the reward could prove worth it. This, combined with their strategic thought process, helps them achieve solid results. Their high levels of ambition can trigger restlessness but also motivate them to seek prospects beyond the ordinary. They exercise autonomy while making decisions, even as they closely monitor their competitor’s movements to scout for rewarding opportunities. When a lucrative proposition is on the table, their decisions are swift and deliberate, regardless of what the outcome may be.
+
 How many or What are the Stealthy Shark recommendations/suggestions ?
 Based on your Stealthy Shark traits, here are our recommendations to help you make sound financial decisions. 
 	1. Choose financial instruments that feed your curiosity and hunger for growth. These could include equity instruments (both domestic and international), alternative investments like commercial real estate, REITs, etc. or new-age products like cryptocurrencies, P2P lending, asset financing and the like.

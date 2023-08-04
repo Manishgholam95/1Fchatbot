@@ -5,15 +5,9 @@ below contents are in the form of question and answer on next line, so response 
 How is MoneySign important?  
 Financial well-being is 80% psychology and 20% math. It is important to understand your psychology in order to achieve a harmonious relationship with money and financial well-being.
 
-What are your current offerings? 
-We have launched our app with MoneySign™ as our first offering. All you need to do is download our app and take the MoneySign™ Assessment.
-We have started with Financial planning for a select few. Please go through the Membership Benefits on the "For You" tab and schedule your appointment with the financial Concierge specialist.
-
 What is financial planning?
 Our concept of financial planning involves getting a holistic understanding of your finances (income, expenses, assets, liabilities, and insurance) as well as the person that you are (financial behaviour, core traits and emotions) and accordingly planning your financial journey that you can be at peace with.
 
-What is MoneySign? 
-Built around one of the most scientifically validated frameworks in psychology, MoneySign™ are the symbols that identify your money personality or financial behaviour. Please click the link given to know more about MoneySign™- https://1finance.co.in/moneysign-guide
 
 How will MoneySign benefit me?
 By analysing your money personality, we can help you plan your personal finances that are aligned to your financial behavior.
@@ -31,7 +25,7 @@ How do I talk to a financial concierge specialist?
 Taking the MoneySign™ assessment is the first step so that you can get in touch with our Financial Concierge Specialist team.
 
 Explained MoneySign assessment and impact? 
-The MoneySign™ assessment is a set of 23 questions📝 that enables you to understand your psychological behavior towards Finances. (i) It will help you understand financial behavior which will make it easy to manage your overall finances. (ii) Take your MoneySign™ Assessment (it takes 6-8 minutes), and get an exclusive preview of your MoneySign™ Assessment Report. (iii) It's quick, easy and fun 🙂
+The MoneySign™ assessment is a set of 25 questions📝 that enables you to understand your psychological behavior towards Finances. (i) It will help you understand financial behavior which will make it easy to manage your overall finances. (ii) Take your MoneySign™ Assessment (it takes 6-8 minutes), and get an exclusive preview of your MoneySign™ Assessment Report. (iii) It's quick, easy and fun 🙂
 
 What's the purpose of MoneySig assessment? 
 To understand your relationship with money based on one of the most scientifically validated frameworks in psychology.
@@ -86,15 +80,6 @@ personality. It can only be changed once your financial behaviour changes
 or in some exceptional cases like getting your ancestral property, money
 from an Insurance claim, unpredicted loss, etc.
 
-MoneySign Symbols
-> Persistent Horse
-> Tactical Tiger
-> Opportunistic Lion
-> Virtuous Elephant
-> Far-Sighted Eagle
-> Vigilant Turtle
-> Enlightened Whale
-> Stealthy Shark
 
 Why money sign symbolises animal?
 MoneySign™ was inspired by Charles Darwin's "Theory of Evolution", which demonstrated that humans and all living and extinct creatures diverged genetically from one another but shared a common ancestor dating back millions of years. As a result, humans and animals share a considerable proportion of their DNA. Because of the connection between genetic makeup and behaviour, andour relationship with animals, we consciously decided to utilise them to describe our financial personalities.
@@ -149,6 +134,9 @@ What's there in MoneySign?
 The MoneySign™ Assessment report will give you an in-depth understanding what are your personal biases, traits, and reactions to a certain financial situation.
 
 What are 5 personality traits?
+O-Openness to Experience, C-Conscientiousness, Control(self-discipline, Consistency, reliability), E-Extra version, A-Agreeblness (trust, cooperation), N-Nervousness (Neuroticism-feelings) fearness, anxiety.
+
+what is full form of OCEAN model?
 O-Openness to Experience, C-Conscientiousness, Control(self-discipline, Consistency, reliability), E-Extra version, A-Agreeblness (trust, cooperation), N-Nervousness (Neuroticism-feelings) fearness, anxiety.
 
 What is OCEAN model?

@@ -1,6 +1,11 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+
 what different types of services offer/provided by one finance after moneysign assessment?
 1) 1 View
-2) Financial Health Score (FHS) and Financial Ratios
+2) Financial Behaviour Score (FBS) and Financial Ratios
 3) Financial Wellness Plan
 4) Financial Concierge Service
 5) Hyper-Personalised Financial Advisory
@@ -9,7 +14,7 @@ what different types of services offer/provided by one finance after moneysign a
 how and what different types of services offer/provided by one finance after moneysign assessment?. please explain in detail.
 1)1 View: This service provides a comprehensive, 360º view of a user's financial data, including their assets, liabilities, income, expenses, insurance, and more. It's designed to help users manage their money more holistically by bringing all their finances into one place.
 
-2)Financial Health Score (FHS) and Financial Ratios: This service helps users understand their financial position by providing them with a Financial Health Score and various financial ratios. This can help users make informed financial decisions and develop better money habits.
+2)Financial Behaviour Score (FBS) and Financial Ratios: This service helps users understand their financial position by providing them with a Financial Behaviour Score and various financial ratios. This can help users make informed financial decisions and develop better money habits.
 
 3)Financial Wellness Plan: This service provides customized, actionable insights to align a user's finances with their behavioral traits. The insights are part of the company's advisory ecosystem and are rooted in the expertise of their financial advisors and proprietary algorithms for portfolio analysis.
 
@@ -21,8 +26,8 @@ how and what different types of services offer/provided by one finance after mon
 Can you tell me more about the 1 View feature?
 Sure! Our 1 View feature offers you a comprehensive, 360º view of your financial data, including your assets, liabilities, income, expenses, insurance and more. It's designed to assist you with managing your money more holistically by bringing all your finances into one place.
 
-What is the Financial Health Score?
-The Financial Health Score (FHS) is a measure that helps you understand your financial position. By knowing your FHS and understanding the key metrics behind it, you can make informed financial choices and develop better money habits. It's a way to measure the link between your financial traits and your personality.
+What is the Financial Behaviour Score?
+The Financial Behaviour Score (FBS) is a measure that helps you understand your financial position. By knowing your FBS and understanding the key metrics behind it, you can make informed financial choices and develop better money habits. It's a way to measure the link between your financial traits and your personality.
 
 Can you tell me more about the Financial Wellness Plan?
 Of course! Our Financial Wellness Plan provides customized insights to align your finances with your behavioral traits. These insights are part of our advisory ecosystem and are rooted in the expertise of our finance concierge specialists and financial advisors, backed by our proprietary algorithms for portfolio analysis.

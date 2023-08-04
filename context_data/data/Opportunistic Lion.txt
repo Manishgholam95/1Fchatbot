@@ -1,3 +1,13 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+what is Opportunistic Lion?
+They are curious about new financial products and tools, competitive to the core, and satisfied when risks pay off. Setbacks don’t faze them — they’re always looking out for the next big adventure.
+
+give the detail description of Opportunistic Lion
+They have a striking demeanor and a curious mind, which means they’re always on the lookout for the next big opportunity. Their formula for success has always been to fill in the gaps in their skill set by drawing on the expertise of people in their social circle. This helps them make the most of the options presented, even when the window of opportunity is narrow. They’ll do what it takes to emerge ahead of their competitors. Being highly self-motivated allows them to keep exploring new pursuits no matter what the outcome may be. While taking time off to celebrate a significant milestone is important to them, they will not think twice before jumping right back into action if there’s something exciting on the horizon.
+
 How many or What are the Opportunistic Lion recommendations/suggestions ?
 Based on your Opportunistic Lion traits, here are our recommendations to help you make sound financial decisions. 
 	1. Given your appetite for high risk and low level of fear, considering risky asset classes (mid- or small-cap stocks, financial derivatives, cryptocurrencies, unlisted or private equity, etc.) as investment options or income generation methods would be ideal. However, the need for creating a safety net cannot be overstated.

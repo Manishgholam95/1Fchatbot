@@ -1,3 +1,15 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+what is Persistent Horse?
+These are people who find comfort in routine, prioritise long-term economic stability over rapid growth, and avoid uncertainty. Patience and perseverance guide them through volatile periods, and time-tested financial wisdom resonates with their beliefs.
+
+
+give the detail description of Persistent Horse.
+Being a creature of habit, they firmly believe in following a daily routine. They are often surrounded by a large social circle and prefer companionship over solitude. They take particular joy in being present in an environment that allows them to share and absorb ideas. They have the patience and perseverance to go the extra mile in order to achieve a goal. To safeguard their long-term well-being, they tend to follow time-tested, conventional wisdom, and dislike uncertainty. In the pursuit of stability, they steer clear of situations that may be unpredictable or volatile.
+
+
 How many or What are the Persistent Horse recommendations/suggestions ?
 Based on your Persistent Horse traits, here are our recommendations to help you make sound financial decisions.
 	1. If you can’t withstand large price swings, avoiding volatile investments like direct equity, financial derivatives and cryptocurrencies would be a good idea.

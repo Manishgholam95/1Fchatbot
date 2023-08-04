@@ -1,3 +1,8 @@
+Answer the question based on the context below. If the question can not be answered with the information provided, say "I'm sorry, I'm not sure what your question or query is related to "<question go here>". Could you please provide more context or information?"
+
+below contents are in the form of question and answer on next line, so response the relevant content accordingly
+
+
 What is the objective of the MoneySign™ assessment?
 The objective of the MoneySign™ assessment is to make individuals aware of their inherent strengths and weaknesses in their financial behavior. It aims to help bridge the gap between their current financial standing and their financial well-being goals by creating a personalized financial plan that aligns with their psychology.
 
