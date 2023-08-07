@@ -21,14 +21,14 @@ There are eight MoneySign Profiles
 
 give the Short Description/Details of moneysign ?
 give the Short information of moneysign ?
-1) Tactical Tiger: Aware and agile, they achieve goals through strategic skills and emotional intelligence. They balance boldness with caution, are observant, adaptable, and self-sufficient.
-2) Enlightened Whale: Realistic decision-makers who don't let emotions cloud judgment. They handle pressure, possess sharp memory, and value focused attention. They're modest, calm, and rejuvenate regularly.
-3) Persistent Horse: Creatures of habit, they value routine and social connections. They're patient, avoid uncertainty, and seek stable, conventional wisdom.
-4) Stealthy Shark: Mysterious and strategic, they're inquisitive risk-takers, ambitious, and autonomous. They're vigilant of competitors and make deliberate decisions.
-5) Opportunistic Lion: Always scouting opportunities, they leverage their network to bridge skill gaps. Highly motivated, they're quick to act, especially when new ventures arise.
-6) Vigilant Turtle: Composed and disciplined, they value hard work, systematic problem-solving, and tried-and-true methods. They anticipate risks, are observant, and move methodically.
-7) Virtuous Elephant: Natural leaders with practical wisdom, they offer solutions to complex issues and inspire trust. They're calm in crises, protective, and armed with intellect and communication skills.
-8) Far-Sighted Eagle: Loyal and focused on long-term prospects, they identify and seize high-potential opportunities with confidence and vision, standing out from the competition.
+Tactical Tiger: Financially agile and aware, they take mindful, calculated risks, asserting control and occasionally getting aggressive.
+Enlightened Whale: Pragmatic and calm under pressure, they navigate complexities and prioritize attention on what's important, ensuring regular cooldowns.
+Persistent Horse: They value routine and long-term stability, avoiding uncertainties. Patience guides them, resonating with traditional financial wisdom.
+Stealthy Shark: Always hunting opportunities and monitoring rivals, they make swift, aggressive decisions. A touch of caution can benefit them.
+Opportunistic Lion: Curious about new financial avenues and undeterred by setbacks, they're ever-ready for the next big financial adventure.
+Vigilant Turtle: Composed and observant, they navigate challenges with discipline. They prefer tried-and-tested investments and prepare for potential risks.
+Virtuous Elephant: Practical decision-makers who offer security to peers. Calm in crises, they're occasionally wary of financial experimentation.
+Far-Sighted Eagle: With a focus on the future, they confidently take risks after thorough research, avoiding the pitfalls of following the crowd.
 
 
 
