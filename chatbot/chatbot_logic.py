@@ -7,13 +7,13 @@ dotenv.load_dotenv()
 
 def construct_index():
     # set maximum input size
-    max_input_size = 500
+    max_input_size = 1500
     # set number of output tokens
-    num_outputs = 500
+    num_outputs = 1500
     # set maximum chunk overlap
     max_chunk_overlap = 20
     # set chunk size limit
-    chunk_size_limit = 600
+    chunk_size_limit = 1800
 
     openai_api_key = os.getenv('OPENAI_API_KEY')
 
