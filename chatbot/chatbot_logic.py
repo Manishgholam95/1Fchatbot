@@ -31,9 +31,9 @@ def get_recent_history_as_context(num_messages=5):
 
 def construct_index():
     # set maximum input size
-    max_input_size = 500
+    max_input_size = 4000
     # set number of output tokens
-    num_outputs = 500
+    num_outputs = 4000
     # set maximum chunk overlap
     max_chunk_overlap = 20
     # set chunk size limit
@@ -57,6 +57,13 @@ def construct_index():
 
     return index
 
+
+def convert_urls_to_links(text):
+    # Find URLs in the text.
+    url_pattern = re.compile(r'http[s]?://(?:[a-zA-Z]|[0-9]|[$-_@.&+]|[!*\\(\\),]|(?:%[0-9a-fA-F][0-9a-fA-F]))+')
+    # Replace URLs with HTML links.
+    return url_pattern.sub(lambda x: f'<a href="{x.group()}" target="_blank">{x.group()}</a>', text)
+
 def get_response(query):
     # First, try to get an answer without any context
     if not os.path.exists('index.json'):
@@ -77,9 +84,11 @@ def get_response(query):
             full_query = context + "\nUser: " + query
             response = index.query(full_query)
 
+    # Convert URLs in the response to clickable hyperlinks
+    formatted_response = convert_urls_to_links(response.response)
+
     # Save the interaction to chat history
     chat_history.append(("user", query))
-    chat_history.append(("bot", response.response))
-    
+    chat_history.append(("bot", formatted_response))
 
-    return response.response
+    return formatted_response
